@@ -8,7 +8,7 @@
     
   }
 }
-
+/*
   if(count($_FILES['file']['file'])) {
     foreach ($_FILES['file']['file'] as $file) {
       echo "Upload: " . $_FILES["file"]["name"] . "<br>";
@@ -26,5 +26,5 @@
         echo "Stored in: " . "upload/" . $_FILES["file"]["name"];
       }  
   }
-}
+}*/
 ?>
